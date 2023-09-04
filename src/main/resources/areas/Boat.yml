@@ -1,0 +1,26 @@
+area:
+  name: "冰船竞速"
+  min-player: 1
+  max-player: 5
+  area-type: "BOAT"
+  timer: 90
+  spawn-point: "tgttos:283:114:83:0:0"
+  spawners: []
+  pos1: "tgttos:243:123:74:0:0"
+  pos2: "tgttos:341:102:228:0:0"
+  end-chicken-spawn-point: "tgttos:300:109:212:0:0"
+  spawn-points:
+    - "tgttos:276.5:114:82.5:0:0"
+    - "tgttos:277.5:114:82.5:0:0"
+    - "tgttos:278.5:114:82.5:0:0"
+    - "tgttos:279.5:114:82.5:0:0"
+    - "tgttos:280.5:114:82.5:0:0"
+    - "tgttos:281.5:114:82.5:0:0"
+    - "tgttos:282.5:114:82.5:0:0"
+    - "tgttos:283.5:114:82.5:0:0"
+    - "tgttos:284.5:114:82.5:0:0"
+    - "tgttos:285.5:114:82.5:0:0"
+    - "tgttos:286.5:114:82.5:0:0"
+    - "tgttos:287.5:114:82.5:0:0"
+    - "tgttos:288.5:114:82.5:0:0"
+    - "tgttos:289.5:114:82.5:0:0"

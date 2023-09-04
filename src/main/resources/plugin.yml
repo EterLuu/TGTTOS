@@ -1,0 +1,14 @@
+name: TGTTOS
+version: '${version}'
+main: ink.ziip.hammer.tgttos.TGTTOS
+api-version: '1.19'
+depend:
+  - ProtocolLib
+  - PlaceholderAPI
+softdepend:
+  - PhantomWorlds
+  - Teams
+commands:
+  tgttos:
+    description: Core command.
+    usage: /<command>
